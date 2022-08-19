@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.localEchoStyle": "dim",
+    "editor.fontSize": 16,
+    "editor.fontWeight": "normal",
+    "terminal.integrated.detectLocale": "on"
+}
